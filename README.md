@@ -42,5 +42,5 @@ Changelog:
 6) Fixed execve call (use proper argv array instead of 0, 0)
 7) Added error checking for malloc, popen, socket, connect
 
-Enjoy!
+For windows: use this guy's .dll file https://github.com/0671/RedisModules-ExecuteCommand-for-Windows
     
